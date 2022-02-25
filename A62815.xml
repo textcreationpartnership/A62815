@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the right reverend, the moderator, and remanent members of the venerable assembly of the Church of Scotland, now sitting at Edinburgh. The humble representation of Walter Earl of Tarras, and the other heretors concerned, for re-erecting the Kirk of Robertoun</title>
+            <author>Tarras, Walter Scott, Earl of, 1644-1693.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62815</idno>
+            <idno type="STC">Wing T168</idno>
+            <idno type="STC">ESTC R219150</idno>
+            <idno type="EEBO-CITATION">99830669</idno>
+            <idno type="PROQUEST">99830669</idno>
+            <idno type="VID">35122</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62815)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35122)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2080:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the right reverend, the moderator, and remanent members of the venerable assembly of the Church of Scotland, now sitting at Edinburgh. The humble representation of Walter Earl of Tarras, and the other heretors concerned, for re-erecting the Kirk of Robertoun</title>
+                  <author>Tarras, Walter Scott, Earl of, 1644-1693.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland --  Government --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:35122:1" rendition="simple:additions"/>
+            <head>To the Right Reverend, the MODERATOR, AND REMANENT MEMBERS OF THE VENERABLE ASSEMBLY Of the Church of SCOTLAND, now Sitting at <hi>Edinburgh.</hi>
+            </head>
+            <head type="sub">THE HUMBLE REPRESENTATION OF WALTER <hi>Earl of</hi> TARRAS. <hi>and the other Heretors concerned, for Re-erecting the Kirk of</hi> Robertoun.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N the year 1647. The General Aſſembly of this Church did by their Act, <hi>Seſſion <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> Ordain. Presbyteries to uſe all Dili<g ref="char:EOLhyphen"/>gence for Remeeding the incommodious Situation of Pariſh Kirks: And in parti<g ref="char:EOLhyphen"/>cular, they ordered a Recommendation, to be Directed to the then Earl of <hi>Buc<g ref="char:EOLhyphen"/>cleugh</hi> for Building a Kirk on <hi>Borth<g ref="char:EOLhyphen"/>wick Water;</hi> (as appears by the Index of their unprinted Acts,) which being Eſſayed by the Presbytery of <hi>Jedburgh</hi> in the year 1649 was interrupted by the Invaſion of the <hi>Engliſh,</hi> till the year 1658, at which time the Heretors of the Pariſhes of <hi>Hawick, Haſſenden, Wiltoun</hi> and <hi>Selkirk,</hi> all lying upon, or near to <hi>Borthwick Water,</hi> made their Addreſs to the Presbytery of <hi>Jedburgh,</hi> for getting the Kirk of <hi>Haſſenden</hi> Tranſplanted from the <hi>Eaſt-end</hi> of the Pariſh where it ſtood, to <hi>Robertoun,</hi> which is about the middle thereof; and for Diſmembring the remote Parts of the Pariſhes of <hi>Hawick, Haſſenden, Wiltoun</hi> and <hi>Selkirk</hi> from their re<g ref="char:EOLhyphen"/>ſpective Kirks, and annexing them to this new Kirk of <hi>Robertoun;</hi> and that in regard, That on the heads of the Waters of <hi>Tiviot</hi> and <hi>Borthwick</hi> there were at leaſt ten Miles Deſtitute of any Kirk; whereas beneath, where <hi>Tiviot</hi> and <hi>Borthwick</hi> meet, there are no fewer then ſix Kirks within the bounds of four Miles; of which the Kirk of <hi>Haſſenden</hi> being one, and hav<g ref="char:EOLhyphen"/>ing the Kirks of <hi>Minto</hi> and <hi>Wiltoun</hi> on the one and other ſide; it then ſtood at the <hi>Eaſt-end</hi> of the Pariſh, which is at leaſt twelve Miles of length in a
+<pb facs="tcp:35122:2" rendition="simple:additions"/>
+               <pb n="1" facs="tcp:35122:2" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:35122:3"/>ſtreight line from <hi>Haſſenden</hi> to <hi>Creak,</hi> the <hi>Weſt-end</hi> of the Pariſh, upon the <hi>North-ſide</hi> of the ſaids Waters of <hi>Tiviot</hi> and <hi>Borthwick,</hi> and hath the whole Pariſh of <hi>Wiltoun,</hi> as it were, Interwoven with it by parcels, which being the Situation of the Pariſh of <hi>Haſſenden;</hi> and there being alſo ſome remote parts of the Pariſhes of <hi>Hawick</hi> and <hi>Selkirk</hi> lying upon or near to the ſaid <hi>Borthwick water,</hi> which will be diſtant from their ſaid Kirks, or any Kirk whatſomever, ſix, eight, ten, or twelve Miles: The tranſplanting of <hi>Haſſen<g ref="char:EOLhyphen"/>den</hi> Kirk to <hi>Robertoun,</hi> and annexing the ſaids remote parts of <hi>Haſsenden, Hawick, Wiltoun</hi> and <hi>Selkirk</hi> to this new Kirk of <hi>Robertoun,</hi> would make the remoteſt of them to be not above five Miles diſtant from the ſame, and five parts of ſix within two Miles of the ſaid Kirk: And on the other hand, the <hi>Eaſt-end</hi> of the ſaid Pariſh of <hi>Haſsenden,</hi> from which the Kirk was to be removed, would be ſufficiently accommodate by annexing it, partly to the Kirk of <hi>Minto,</hi> and partly to <hi>Wiltoun,</hi> lying on either hand thereof; and two parts of three of the ſaid <hi>Eaſt-end</hi> would have the advantage in being an<g ref="char:EOLhyphen"/>nexed to <hi>Wiltoun,</hi> which is nearer to them then the Kirk of <hi>Haſſenden;</hi> and the other third part would be no farther prejudged, then by riding or going half a Mile, or at moſt a Mile farther to the Kirk then they were wont: And like<g ref="char:EOLhyphen"/>wiſe the aforeſaids other three Kirks on the <hi>North-ſide</hi> of <hi>Tiviot-water</hi> would by this means be in the very Center of their Pariſhes.</p>
+            <p>Upon which conſiderations, the Conveniency and Equity of the aforeſaid Tranſplantation was ſo apparent, that not only the Presbytery of <hi>Selkirk</hi> did thereto conſent, but alſo all the Heretors in the ſaid <hi>Eaſt-end</hi> of <hi>Haſsenden</hi> Pariſh, by a Writ under their Hands, did unanimouſly concur in the foreſaid Addreſs, except <hi>John Turnball</hi> of <hi>Know;</hi> who yet after a little oppoſition was convinced, and joyned with the reſt: Whereupon the Presbytery of <hi>Jedbrugh</hi> having with conſent of all Parties perambulate the bounds, found a real neceſſity of the ſaid Tranſplantation: And having paſt an Act there<g ref="char:EOLhyphen"/>upon, which was alſo Authorized by the Authority for the time: In purſu<g ref="char:EOLhyphen"/>ance thereof, the ſaid Kirk of <hi>Robertoun</hi> was in the year 1659. Built and compleated, and Gods Worſhip ſet up and Exerciſed therein for ſeveral years thereafter.</p>
+            <p>But in the year 1665, when Prelacy had overturned Presbytery, and was then in great vigour: The Archbiſhop of <hi>Glaſgow</hi> for the time, taking Of<g ref="char:EOLhyphen"/>fence at ſome little ſlight he conceived to be put upon him by the deceaſed Sir <hi>Gideon Scot</hi> the Earl of <hi>Tarras</hi>'s Father; did firſt by a peremptory Letter directed to the Presbytery of <hi>Jedburgh;</hi> and then upon the report of a pre<g ref="char:EOLhyphen"/>tended Viſitation appointed by the Synod of <hi>Peebles,</hi> give order that the Kirk of <hi>Haſsenden</hi> that had been Demoliſhed ſhould be Rebuilt, and the new Pariſh of <hi>Robertoun</hi> again Diſmembred: And that without ſo much as either making the appointed Perambulation, or giving a faire Hearing to the Here<g ref="char:EOLhyphen"/>ters and others concerned, as the Proteſtation and Inſtruments taken by the Laird of <hi>Borthwick Brae,</hi> in Name of the reſt, does teſtify: And in this mat<g ref="char:EOLhyphen"/>ter the Archbiſhop was ſo Partial and Unreaſonable; that albeit he had ſaid openly, that if Sir <hi>Gideon Scot</hi> would but write a Letter to him to forbear, he would do it: Yet his Paſſion ſo far prevailed upon Sir <hi>Gideon</hi>'s nor writing, That he commanded the aforeſaid Diſſolution of the Pariſh of <hi>Robertoun,</hi> to
+<pb n="3" facs="tcp:35122:3"/>the manifeſt Detriment of upwards of 900 Souls that lived within the bounds thereof, and could not elſe where be eaſily accommodate.</p>
+            <p>And farther, he carried his Partiality to that height, that he procured a Decreet of the then Commiſſion for Plantation of Kirks, Ratifying what he had done: But th s Decreet being given in Abſence, and manifeſtly by his procurement, in compearing perſonally in the Commiſſion, and declaring what he had already done in that Affair; and withall the Decreet is charge able with ſeveral Nullities and Inconſiſtencies: And being at beſt but a Rati<g ref="char:EOLhyphen"/>fication, <hi>Quae nihil novi juris tribuit,</hi> and to be underſtood <hi>ſalvo jure,</hi> &amp;c. Is not in this Caſe to be regarded.</p>
+            <p>After this Diſſolution and Deſolation wrought by the Biſhop which con<g ref="char:EOLhyphen"/>tinued for ſeveral years. The Heretors and Pariſhioners did upon the grant<g ref="char:EOLhyphen"/>ing of the late liberty in the year, 1687. Erect to themſelves a meeting houſe near to the ſaid Kirk, providing it with a Presbyterian Miniſter. And the Earl of <hi>Tarras,</hi> with the remanent Heretors and Pariſhioners, being deſir<g ref="char:EOLhyphen"/>ous, upon the re-eſtabliſhment of Presbytery, to have the ſaid Pariſh and Kirk of <hi>Robertoun,</hi> which the Arch-Biſhop had ruined, again reſetled; Did in <hi>September,</hi> 1689. Apply for direction and advice, to a meeting of Presby<g ref="char:EOLhyphen"/>terian Miniſters at <hi>Drybrugh:</hi> But they tho' abundantly ſatisfied, that the former procedure in erecting of that Kirk, was orderly, could do nothing in the matter: In reſpect they were not at that time Authorized by Law. Where<g ref="char:EOLhyphen"/>upon the ſaid Earle, and others did thereafter renew their application to the general meeting of Miniſters at <hi>Edinburgh,</hi> who did in this, as in other caſes, recommend and refer the matter to the next enſuing Synod of <hi>Merſe,</hi> and <hi>Ti<g ref="char:EOLhyphen"/>viotdail,</hi> to be by them examined, and reported to the next General Aſſembly.</p>
+            <p>Upon this Reference, The Synod being met at <hi>Kelſo,</hi> in <hi>July</hi> laſt, did appoint a Commity to conſider this whole Affair, and to reviſe the ſe<g ref="char:EOLhyphen"/>veral Papers thereto relating, and to report their diligence with their opinion and advice thereanet. The which Commity being met and having ſeen all Papers relating either to tranſplantation or overturning of the ſaid Kirk, and having heard all parties concerned; they upon a full examination of the whole matter. And after having ſet down exactly what they had found there<g ref="char:EOLhyphen"/>in, which agrees in every point to the narrative above expreſſed, did returne their report and advice; Firſt, That the erecting of the ſaid Kirk of <hi>Robertoun,</hi> was moſt neceſſary for Accommodating a large tract of ground, which they recommend to the Synod to cauſe perambulate. 2dly. That the aforeſaid ar<g ref="char:EOLhyphen"/>bitrary order given by the Arch-Biſhop, ought to be ſimpliciter condemned, And <hi>Thirdly,</hi> That tho' they think the Synod can give no Judgement, either as to the continuance or demolition of the aforeſaid Kirk of <hi>Haſſenden,</hi> untill the ſaid decreet of Ratification given by the Commiſſion for plantation of Kirks, be taken out of the way; yet they alſo find that the aforeſaid Decreet was given for not Compearance, and that the reaſon why there was no Com<g ref="char:EOLhyphen"/>pearance, was becauſe that none at that time durſt oppoſe the actings of the Arch-Biſhop; neither were Presbyterians fond of new Erections, nor that Kirks ſhould be multiplied: as the ſaid report more fully bears.</p>
+            <p>Which report being made to the Synod, they unanimouſly approved the ſame; condemning the abovementioned injunction given by the Arch-Biſhop
+<pb n="4" facs="tcp:35122:4"/>of <hi>Glaſgow,</hi> and recommended it to ſeveral Gentlemen and Miniſters by them named, to perambulate the whole bounds above controverted, and re<g ref="char:EOLhyphen"/>port to the Synod, as the Synod's Act dated the 24. of <hi>July,</hi> 1690 More fully teſtifies.</p>
+            <p>Like as the Perambulators appointed by the Synod, having met at the Kirk of <hi>Haſſenden,</hi> upon the 13. of <hi>Auguſt</hi> laſt, and then perambulated the whole Bounds: They Judged it moſt convenient for the benefite of the People, lying at ſo vaſt a diſtance from any Kirk; That <hi>Robertoun,</hi> be again Erected in a Pariſh, and duely planted, and that albeit there may be about eight Hundred Souls lying neareſt to the Kirk of <hi>Haſſenden.</hi> yet the remoteſt of them, are not above two miles diſtant from the Kirk of <hi>Wiltoun</hi> on the one ſide, and a mile and an halfe from the Kirk of <hi>Minto</hi> on the other: As the report of their Perambulation, ſubſcribed with their hands, bears.</p>
+            <p>Which report being made to the Synod, again met at <hi>Kelſo,</hi> upon the 23, of <hi>September</hi> laſt, they upon a Petition given in by the Pariſhioners of <hi>Ro<g ref="char:EOLhyphen"/>bertoun</hi> give this Anſwer; that the report of the whole affair concerning the Pariſhes of <hi>Haſſenden,</hi> and <hi>Robertoun;</hi> be given in to the next enſuing Aſ<g ref="char:EOLhyphen"/>ſembly, unto which they refer the ſame: As the extract of their Act bears.</p>
+            <p>Whereupon this venerable Aſſembly being now met, the ſaid Earle of <hi>Tarras,</hi> with the remanent Heretors and Pariſhioners of the ſaid Kirk of <hi>Ro<g ref="char:EOLhyphen"/>bertoun;</hi> do in all Humility, lay the whole matter thereto relating, before the Aſſembly; to be by them duely conſidered and determined upon, earneſtly intreating and obteſting the reverend Members thereof, That they would give their Judgement, and take ſuch courſe therein as may beſt contribute to the re-erecting of the ſaid Kirk and Pariſh of <hi>Robertoun,</hi> for the better accom<g ref="char:EOLhyphen"/>modating of the People, living at ſo vaſt a diſtance, as hath been above repre<g ref="char:EOLhyphen"/>ſented, from any Kirk whatſomever; ſeeing that the ſame doth ſo manifeſtly conduce to the advancement of the Glory of God, in the propagation of the Goſpel, and the good and edification of the Hundreds of Souls therein con<g ref="char:EOLhyphen"/>cerned. And that by the narative above mentioned, It is alſo manifeſt that any oppoſition that hath been or can be made to ſo good a Work, doth only flow from the ſelfiſh diſpoſition of ſuch unreaſonable Men, as wilfully refuſe to cede the ſmalleſt bit of their own eaſe, either for the more neceſſary ac<g ref="char:EOLhyphen"/>commodation of their Neighbours, or the more viſible advantage of the Goſpel, which ought certainly to preponderate in all ſuch caſes.</p>
+            <p>The granting of which juſt deſire, is the more earneſtly expected, in re<g ref="char:EOLhyphen"/>gard that all craved, is only the reviving and reſtoring of what was formerly ſo well ſettled by the Judicatories of the Church, before the late Interruption; and the paſſing ſuch a Judgement upon the whole matter, as is ſutable to its Eccleſiaſtick Authority; ſpecially ſeeing that there neither is at preſent, nor can be any Miniſter regularly fixed in either of theſe Kirks, and for all the vaſt bounds of that Pariſh, until the queſtioned be determined.</p>
+            <pb facs="tcp:35122:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
